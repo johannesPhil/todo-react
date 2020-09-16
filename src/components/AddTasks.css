@@ -1,0 +1,34 @@
+.add__form {
+  width: 100%;
+}
+
+.add__div {
+  width: 100%;
+  height: auto;
+  padding: 0.2rem;
+  display: flex;
+  justify-content: space-between;
+
+  border-radius: 50px;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.add__input {
+  flex: 10;
+  border: transparent;
+  padding: 0 0.5rem;
+  outline: none;
+}
+
+.add__btn {
+  flex: 3;
+  height: 3rem;
+  background: #61dbfb;
+  border: none;
+  outline: none;
+  border-radius: 50px;
+  color: #fff;
+  font-size: 2em;
+  text-align: center;
+}

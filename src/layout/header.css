@@ -1,0 +1,7 @@
+.header {
+  display: grid;
+  place-items: center;
+  background: #666;
+  padding: 1em;
+  color: #fff;
+}
